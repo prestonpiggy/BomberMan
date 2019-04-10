@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c52c3c80052760945b2da4e16cb1ac74
+timeCreated: 1482860301
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pelaaja: {instanceID: 0}
+  - BombPrefab: {fileID: 1000013940746494, guid: fcf9c882beaab044f82560a073fdbe79,
+      type: 2}
+  - BlastPrefab: {fileID: 1000013274623506, guid: d1d34d73673074145b672bf890b45869,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

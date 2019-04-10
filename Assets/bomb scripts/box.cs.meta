@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2c513f59489e84b46a3cb5672130e7a1
+timeCreated: 1484688466
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BlastPrefab: {fileID: 1000013274623506, guid: d1d34d73673074145b672bf890b45869,
+      type: 2}
+  - blast: {fileID: 1000013274623506, guid: d1d34d73673074145b672bf890b45869, type: 2}
+  - Powerloot: {fileID: 1000010253461212, guid: 0f0190bf677fdd646a56717142468e65,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
